@@ -22,3 +22,6 @@ https://snack.expo.dev/@salmarahim/iss-final
 
 ## Trex game CODE.org
 https://studio.code.org/projects/gamelab/hXH0RJYpB0IgNorIfOu34hn8nctQrU18tTqFHUruWJ8/view
+
+## Trex game p5 editor
+https://editor.p5js.org/learningjs/sketches/uU8b4OBuG
