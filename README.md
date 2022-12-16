@@ -26,4 +26,8 @@ https://studio.code.org/projects/gamelab/hXH0RJYpB0IgNorIfOu34hn8nctQrU18tTqFHUr
 ## Trex game p5 editor
 https://editor.p5js.org/learningjs/sketches/uU8b4OBuG
 
+
+## Storytelling updated with email/password auth
+https://snack.expo.dev/@salmarahim/c86-boilerplate
+
 ###### REFERENCE REPO - whitehatjr
