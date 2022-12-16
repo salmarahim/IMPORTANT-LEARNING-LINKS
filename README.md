@@ -4,3 +4,6 @@ https://snack.expo.dev/@salmarahim/rifa-buzzer-app
 
 ## Quiz Admin App
 https://snack.expo.dev/@salmarahim/rifa-quiz-master-app
+
+## Weather app
+https://snack.expo.dev/@salmarahim/weatherapp
